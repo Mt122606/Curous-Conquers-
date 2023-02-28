@@ -1,52 +1,53 @@
-State,Urate
-Alabama,3.4
-Alaska,6.4
-Arizona,4.9
-Arkansas,4
-California,7.3
-Colorado,5.4
-Connecticut,6.3
-Delaware,5.3
-District of Columbia,6.6
-Florida,4.6
-Georgia,3.9
-Hawaii,5.7
-Idaho,3.6
-Illinois,6.1
-Indiana,3.6
-Iowa,4.2
-Kansas,3.2
-Kentucky,4.7
-Louisiana,5.5
-Maine,4.6
-Maryland,5.8
-Massachusetts,5.7
-Michigan,5.9
-Minnesota,3.4
-Mississippi,5.6
-Missouri,4.4
-Montana,3.4
-Nebraska,2.5
-Nevada,7.2
-New Hampshire,3.5
-New Jersey,6.3
-New Mexico,6.8
-New York,6.9
-North Carolina,4.8
-North Dakota,3.7
-Ohio,5.1
-Oklahoma,3.8
-Oregon,5.2
-Pennsylvania,6.3
-Rhode Island,5.6
-South Carolina,4
-South Dakota,3.1
-Tennessee,4.3
-Texas,5.7
-Utah,2.7
-Vermont,3.4
-Virginia,3.9
-Washington,5.2
-West Virginia,5
-Wisconsin,3.8
-Wyoming,4.5
+State,Urate,Pop. 2021,Change 2020-21
+Alabama,3.4,"5,039,877",0.30%
+Alaska,6.4,"732,673",-0.10%
+Arizona,4.9,"7,276,316",1.70%
+Arkansas,4,"3,025,891",0.50%
+California,7.3,"39,237,836",-0.80%
+Colorado,5.4,"5,812,069",0.70%
+Connecticut,6.3,"3,605,597",0.00%
+Delaware,5.3,"1,003,384",1.40%
+District of Columbia,6.6,"670,050",-2.80%
+Florida,4.6,"21,781,128",1.10%
+Georgia,3.9,"10,799,566",0.80%
+Hawaii,5.7,"1,441,553",-0.90%
+Idaho,3.6,"1,900,923",3.40%
+Illinois,6.1,"12,671,469",-1.10%
+Indiana,3.6,"6,805,985",0.30%
+Iowa,4.2,"3,193,079",0.10%
+Kansas,3.2,"2,934,582",-0.10%
+Kentucky,4.7,"4,509,394",0.10%
+Louisiana,5.5,"4,624,047",-0.70%
+Maine,4.6,"1,372,247",0.70%
+Maryland,5.8,"6,165,129",-0.20%
+Massachusetts,5.7,"6,984,723",-0.60%
+Michigan,5.9,"10,050,811",-0.30%
+Minnesota,3.4,"5,707,390",0.00%
+Mississippi,5.6,"2,949,965",-0.40%
+Missouri,4.4,"6,168,187",0.20%
+Montana,3.4,"1,104,271",1.80%
+Nebraska,2.5,"1,963,692",0.10%
+Nevada,7.2,"3,143,991",1.30%
+New Hampshire,3.5,"1,388,992",0.80%
+New Jersey,6.3,"9,267,130",-0.20%
+New Mexico,6.8,"2,115,877",-0.10%
+New York,6.9,"19,835,913",-1.80%
+North Carolina,4.8,"10,551,162",1.10%
+North Dakota,3.7,"774,948",-0.50%
+Ohio,5.1,"11,780,017",-0.20%
+Oklahoma,3.8,"3,986,639",0.70%
+Oregon,5.2,"4,246,155",0.20%
+Pennsylvania,6.3,"12,964,056",-0.30%
+Rhode Island,5.6,"1,095,610",-0.20%
+South Carolina,4,"5,190,705",1.40%
+South Dakota,3.1,"895,376",1.00%
+Tennessee,4.3,"6,975,218",0.90%
+Texas,5.7,"29,527,941",1.30%
+Utah,2.7,"3,337,975",2.00%
+Vermont,3.4,"645,570",0.40%
+Virginia,3.9,"8,642,274",0.10%
+Washington,5.2,"7,738,692",0.40%
+West Virginia,5,"1,782,959",-0.60%
+Wisconsin,3.8,"5,895,908",0.00%
+Wyoming,4.5,"578,803",0.30%
+,,,-0.70%

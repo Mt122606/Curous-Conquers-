@@ -1,6 +1,13 @@
 # Courous Conquers'
+I am happy to share my final project for Sounthern Career Institute. 
+From choosing and gathering data to interpratation and presentation; 
+I am proud of the skills I was able to display. 
+    -Scrum Management
+    -Organization
+    -Data Wrangling
+    
 
-Investigation of Crime:
+Investigation of Crime Time Stucture:
 
 Week 1 Plan proposal is where we took questions, got to know our team and set up required collaboration software, such as Trello, Google forms, Github.
 
